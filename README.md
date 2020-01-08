@@ -1,3 +1,6 @@
-##A simple API working in a Docker Container
+## A simple API working in a Docker Container
 
-We install Flask and expose some endpoints
+We install Flask and expose some endpoints:
+
+Currently
+
