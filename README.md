@@ -2,5 +2,4 @@
 
 We install Flask and expose some endpoints:
 
-Currently
-
+/ - says "Hello World"
